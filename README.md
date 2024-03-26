@@ -1,7 +1,6 @@
 ______
 < Hello >
  ------
- 
    _____                        
   / ____|                       
  | |  __ _ __ _   _  ___ _ __   
@@ -9,8 +8,7 @@ ______
  | |__| | |  | |_| |  __/ | | | 
   \_____|_|   \__,_|\___|_| |_| 
                                 
-                            
 About Me
 --------
 
-I am a gruen, a Foss enthusiast
+I am a gruen, a Foss enthusiast.
